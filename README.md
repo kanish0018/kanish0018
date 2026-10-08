@@ -28,7 +28,7 @@ I'm currently focused on strengthening my programming fundamentals, practicing D
 
 ### Languages
 
-Java • JavaScript • HTML • CSS
+Java • C 
 
 ### Core
 
@@ -62,8 +62,7 @@ More projects will be added here as I build and deploy them.
 **LinkedIn:**
 https://www.linkedin.com/in/kanish-sharma-aa8780334
 
-**GitHub:**
-https://github.com/kanish0018
+
 
 ---
 
